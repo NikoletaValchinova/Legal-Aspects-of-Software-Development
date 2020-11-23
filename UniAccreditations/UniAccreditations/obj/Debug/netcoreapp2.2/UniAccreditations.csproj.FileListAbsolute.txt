@@ -1,0 +1,87 @@
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.deps.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.dev.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.Views.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\bin\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.csprojAssemblyReference.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.input.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.output.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.RazorCoreGenerate.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master\DrugStore\DrugStore\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CopyComplete
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.deps.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.dev.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.Views.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csprojAssemblyReference.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.input.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.output.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorCoreGenerate.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CopyComplete
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.deps.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.runtimeconfig.dev.json
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.Views.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\bin\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csprojAssemblyReference.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CoreCompileInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfoInputs.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.AssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.input.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.TagHelpers.output.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorCoreGenerate.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cache
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.RazorTargetAssemblyInfo.cs
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.Views.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.dll
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.pdb
+C:\Users\ROG STRIX SCAR II\Desktop\spasi-master\spasi-master – Копие – Копие\UniAccreditations\UniAccreditations\obj\Debug\netcoreapp2.2\UniAccreditations.csproj.CopyComplete
